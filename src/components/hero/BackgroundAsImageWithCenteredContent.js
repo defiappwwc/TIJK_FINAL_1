@@ -48,7 +48,7 @@ export default () => {
       <NavLink href=".#">
         HOME
       </NavLink>
-      <NavLink target="_blank" href="https://neon-fudge-519451.netlify.app/">
+      <NavLink target="_blank" href="https://teal-malabi-8d5763.netlify.app/">
         DEPOSIT/WIDTHDRAW
       </NavLink>
       <NavLink>
@@ -80,7 +80,7 @@ export default () => {
             <center>BECAUSE LIFE’S COMPLICATED ENOUGH</center>
           </p>
           
-          <PrimaryAction><NavLink target="_blank" href="https://neon-fudge-519451.netlify.app/">START YOUR SIP</NavLink></PrimaryAction>
+          <PrimaryAction><NavLink target="_blank" href="https://teal-malabi-8d5763.netlify.app/">START YOUR SIP</NavLink></PrimaryAction>
 
           <p className="support"><a href="mailto:support@tijkfinancial.com">support@tijkfinancial.com</a></p>
 

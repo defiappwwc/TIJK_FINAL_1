@@ -73,7 +73,7 @@ export default ({ roundedHeaderButton = false, logoLink, links, className, colla
   const defaultLinks = [
     <NavLinks key={1}>
       <NavLink href="/">HOME</NavLink>
-      <NavLink target="_blank" href="https://neon-fudge-519451.netlify.app/">DEPOSIT/WIDTHDRAW</NavLink>
+      <NavLink target="_blank" href="https://teal-malabi-8d5763.netlify.app/">DEPOSIT/WIDTHDRAW</NavLink>
       <NavLink href="/#">ABOUT</NavLink>
       <NavLink target="_blank" href="https://chipper-arithmetic-9e6396.netlify.app/">CALCULATOR</NavLink>
     </NavLinks>
